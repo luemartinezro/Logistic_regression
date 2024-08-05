@@ -1,2 +1,2 @@
 # Logistic_regression
-paper about logistic_regression
+Logistic regression is a statistical method used for binary classification, meaning a result has two possible values (e.g., yes/no, success/failure, default/no default). It models the probability of a binary outcome (that is, an outcome that can take one of two possible values, typically coded as 0 and 1) based on one or more predictor variables. Where the response default falls into one of two categories, Yes or No. Instead of directly modeling this response $Y$ logistic regression models the probability that $Y$ belongs to a particular category.
